@@ -1,6 +1,5 @@
 '''La idea de este proyecto es crear un programa que evalúe cuan rápido puedes escribir una
-oración de manera precisa.
-El programa debe mostrar una oración aleatoria en la pantalla y el usuario debe escribirla lo más rápido posible.'''
+oración de manera precisa.'''
 
 import tkinter as tk
 import random
